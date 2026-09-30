@@ -97,7 +97,7 @@ export default function TransactionScreen() {
 
             <View>
                 <TextInput style={globalStyles.descripText}
-                    placeholder='add description'
+                    placeholder='Add Description'
                 />
             </View>
 

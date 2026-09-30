@@ -10,8 +10,8 @@ export default function TransactionScreen() {
 
     // Dynamic amount
     // Helper functions to change amount with the + and - buttons
-    const incrementAmount = () => setAmount(prev => prev + 1);
-    const decrementAmount = () => setAmount(prev => (prev >= 1 ? prev - 1 : 0));
+    const incrementAmount = () => setAmount(prev => prev + 1.5);
+    const decrementAmount = () => setAmount(prev => (prev >= 1.0 ? prev - 1 : 0));
     
 
     return (

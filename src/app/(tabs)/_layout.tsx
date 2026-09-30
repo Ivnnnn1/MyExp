@@ -20,7 +20,7 @@ export default function TabLayout() {
             />
             <Tabs.Screen
                 name='Transaction'
-                options={{ title: 'Transaction',
+                options={{ title: 'hi',
                     headerShown: false
                 }}
             />

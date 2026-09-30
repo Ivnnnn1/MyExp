@@ -34,7 +34,7 @@ export default function WelcomeScreen() {
         {/* Member 3 */}
         <View style={globalStyles.memberItem}>
           <View style={globalStyles.avatar}>
-            <Text style={globalStyles.avatarText}>JIM</Text>
+            <Text style={globalStyles.avatarText}>JM</Text>
           </View>
           <Text style={globalStyles.memberName}>Jeorge Ivan Magbutay</Text>
         </View>

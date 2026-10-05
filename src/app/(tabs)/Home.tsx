@@ -43,7 +43,7 @@ export default function HomeScreen() {
                     </View>
                     {/* Right Side: Amount */}
                     <View style={globalStyles.transactionRight}>
-                        <Text style={globalStyles.transactionAmount}>- ₱1230.00</Text>
+                        <Text style={globalStyles.transactionAmount}>- ₱1230.50</Text>
                     </View>
                 </View>
                 <View style={globalStyles.recentTransaction}>

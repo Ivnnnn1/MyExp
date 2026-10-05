@@ -13,7 +13,7 @@ export default function WelcomeScreen() {
       </View>
       
       <View style={globalStyles.card}>
-        <Text style={globalStyles.cardTitle}>Team Members</Text>
+        <Text style={globalStyles.cardTitle}>Members</Text>
         
         {/* Member 1 */}
         <View style={globalStyles.memberItem}>
